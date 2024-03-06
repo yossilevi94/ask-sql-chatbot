@@ -5,7 +5,7 @@ questions into SQL queries. This project aims to simplify the process of queryin
 their questions in plain language, which is then converted into a structured SQL query based on the database schema,
 which is directly connected to the chatbot.
 
-![asksql](https://github.com/felipeall/ask-sql-chatbot/assets/20917430/33bd78af-3c8c-4dc7-8083-6c4441f9010e)
+![asksql](https://github.com/yossilevi94/ask-sql-chatbot/assets/20917430/33bd78af-3c8c-4dc7-8083-6c4441f9010e)
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ which is directly connected to the chatbot.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/felipeall/ask-sql-chatbot.git
+    git clone https://github.com/yossilevi94/ask-sql-chatbot.git
     ```
 
 2. Navigate to the project directory:
